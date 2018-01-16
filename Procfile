@@ -1,0 +1,1 @@
+web: python tproger_bot.py
