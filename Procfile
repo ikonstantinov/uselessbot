@@ -1,1 +1,1 @@
-web: python tproger_bot.py
+worker: python tproger_bot.py
