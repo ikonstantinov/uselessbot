@@ -8,6 +8,7 @@ from config import telegram_token
 
 class BotHandler:
     def __init__(self, token):
+        print("App is starting")
         self.token = token
         self.api_url = "https://api.telegram.org/bot{}/".format(token)
 
